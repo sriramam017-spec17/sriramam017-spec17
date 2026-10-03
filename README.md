@@ -5,7 +5,7 @@ AI-powered network attack forecasting platform.
 
 `AI/ML` `Cybersecurity` `TypeScript` `Node.js`
 
-🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/cybera-ai)
+🌐 [Live Demo](https://cybera-ai.onrender.com/) · 📂 [Repository](https://github.com/sriramam017-spec17/cybera-ai)
 
 ---
 
@@ -14,7 +14,7 @@ AI-powered criminal network intelligence platform.
 
 `AI` `Neo4j` `FastAPI` `PostgreSQL` `Qdrant`
 
-🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/TARUN-AM/sih26189-criminal-network-intelligence)
+🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/sriramam017-spec17/sih26189-criminal-network-intelligence)
 
 ---
 
