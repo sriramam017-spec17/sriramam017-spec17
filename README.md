@@ -14,7 +14,7 @@ AI-powered criminal network intelligence platform.
 
 `AI` `Neo4j` `FastAPI` `PostgreSQL` `Qdrant`
 
-🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/sriramam017-spec17/sih26189-criminal-network-intelligence)
+🌐 [Live Demo](https://casenet-ai.onrender.com/) · 📂 [Repository](https://github.com/sriramam017-spec17/casenet)
 
 ---
 
